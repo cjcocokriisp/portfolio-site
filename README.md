@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Portfolio Website 
 
 This site was developed with [Next.js](https://nextjs.org/) and is used to host information about my career and personal projects. It also hosts a page that pulls my latest Medium articles from the RSS feed and then displays them to be readable on the site on link to the Medium post.
@@ -28,3 +29,6 @@ bun dev
 ```
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+=======
+# portfolio-site
+>>>>>>> ada2eeeb154e7a061b4e62f2482c093f3a91c45b
