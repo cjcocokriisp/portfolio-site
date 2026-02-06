@@ -18,7 +18,7 @@ export default function Footer(props: any) {
     return (
         <div className={`${sourceCodePro.className} footer container`} style={{background: type}}>
             <div className="footer-icons">
-                <a href="https://www.github.com/cjcocokrisp">
+                <a href="https://www.github.com/cjcocokriisp">
                     <FontAwesomeIcon icon={faGithub} className="footer-icon"/>
                 </a>
                 <a href="https://www.linkedin.com/in/christopher-coco-jr/">

@@ -39,7 +39,7 @@ export default function Home() {
             <NavBar alt={false} dynamic={true}/>
             <div className="hero container">
                 <div className="hero-info left">
-                    <a href="https://www.github.com/cjcocokrisp">
+                    <a href="https://github.com/cjcocokriisp">
                         <FontAwesomeIcon icon={faGithub} className="hero-icon" />
                     </a>
                     <a href="https://www.linkedin.com/in/christopher-coco-jr/">
@@ -63,7 +63,7 @@ export default function Home() {
                     />
                 </div>
                 <div className="hero-info right">
-                    <p className={`${sourceCodePro.className} hero-email`}>chriscoco1205@gmail.com</p>
+                    <p className={`${sourceCodePro.className} hero-email`}>chriscocojr1205@gmail.com</p>
                     <div className="hero-line"></div>
                 </div>
             </div>
@@ -79,7 +79,7 @@ export default function Home() {
                     <div className={`${sourceSans.className} contact-text`}>Want to get in touch?</div>
                     <div className={`${sourceCodePro.className} contact-content`}>
                         <div className={`contact-linkedin`}><a href="https://www.linkedin.com/in/christopher-coco-jr/">Connect with me on <FontAwesomeIcon icon={faLinkedin} className="contact-icon" /></a></div>
-                        <div className="contact-email">Email me at <em>chriscoco1205@gmail.com</em></div>
+                        <div className="contact-email">Email me at <em>chriscocojr1205@gmail.com</em></div>
                     </div>
                     <div className={`${sourceSans.className} contact-text`}>More to the site coming eventually who knows when...</div>
                 </div>

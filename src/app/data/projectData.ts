@@ -11,7 +11,7 @@ const projectData = {
                     "Tried out uv as the Python package manager for this project, it is pretty neat."
                 ],
                 "img": "mc2sf.png", 
-                "repo": "https://github.com/cjcocokrisp/mc2sf"
+                "repo": "https://github.com/cjcocokriisp/mc2sf"
 
             },
             "1" : {
@@ -27,7 +27,7 @@ const projectData = {
                     "Created documentation for some aspects of the homelab."
                 ],
                 "img": "homelab.png", 
-                "repo": "https://github.com/cjcocokrisp/homelab"
+                "repo": "https://github.com/cjcocokriisp/homelab"
             },
             "2" : {
                 "name": "SongSwipe",
@@ -50,7 +50,7 @@ const projectData = {
                     "Properly documented the module and uploaded it to the Go package manager to allow for easy installation.",
                 ],
                 "img": "dexcomshare.png", 
-                "repo": "https://github.com/cjcocokrisp/go-dexcomshare"
+                "repo": "https://github.com/cjcocokriisp/go-dexcomshare"
             }
         },
     },
@@ -68,7 +68,7 @@ const projectData = {
                     "Developed for the COMP.4600 (Selected Topics: Cloud Computing) Fall 2024 Final Project."
                 ],
                 "img": "trivia-cloud.png", 
-                "repo": "https://github.com/cjcocokrisp/trivia-cloud"
+                "repo": "https://github.com/cjcocokriisp/trivia-cloud"
             },
             "1" : {
                 "name": "Shiny Sim",
@@ -79,7 +79,7 @@ const projectData = {
                     "Containerized the application using Docker to make it easier to install the application to run locally."
                 ],
                 "img": "shiny-sim.png", 
-                "repo": "https://github.com/cjcocokrisp/shiny-sim"
+                "repo": "https://github.com/cjcocokriisp/shiny-sim"
             },
             "2" : {
                 "name": "Attendance Bot",
@@ -102,7 +102,7 @@ const projectData = {
                     "Risk of Rain 2 was developed in Unity so the mod was developed in C#.",
                 ],
                 "img": "guprankings.png", 
-                "repo": "https://github.com/cjcocokrisp/GupRankings"
+                "repo": "https://github.com/cjcocokriisp/GupRankings"
             },
             "4" : {
                 "name": "Portfolio Website",
@@ -112,7 +112,7 @@ const projectData = {
                     "Built using Next.JS and vanilla CSS."
                 ],
                 "img": "portfoliosite.png", 
-                "repo": "https://github.com/cjcocokrisp/portfolio-site"
+                "repo": "https://github.com/cjcocokriisp/portfolio-site"
             }
         }
     },
@@ -127,7 +127,7 @@ const projectData = {
                     "Implemented a Discord bot that would notify the user on the status of the hunt through automated messages every cycle."
                 ],
                 "img": "shineai.png",
-                "repo": "https://github.com/cjcocokrisp/shine.ai"
+                "repo": "https://github.com/cjcocokriisp/shine.ai"
             },
             "1" : {
                 "name": "Chip8 Emulator",
@@ -137,7 +137,7 @@ const projectData = {
                     "Used basic OpenGL to draw the current state of the screen."
                 ],
                 "img": "chip8emu.png", 
-                "repo": "https://github.com/cjcocokrisp/CHIP8_EMU"
+                "repo": "https://github.com/cjcocokriisp/CHIP8_EMU"
             }
         }
     },
@@ -152,7 +152,7 @@ const projectData = {
                     "Developed as apart of the SoarCS 2022 Final Projects and was presented at DevConf 2022."
                 ], 
                 "img": "myr.png",
-                "repo": "https://github.com/cjcocokrisp/myr-image-converter"
+                "repo": "https://github.com/cjcocokriisp/myr-image-converter"
             },
             "1": {
                 "name": "Insulate",
@@ -161,7 +161,7 @@ const projectData = {
                     "Uses CGM data from Dexcom’s Web API to reward the user for having good blood sugar averages."
                 ],
                 "img": "insulate.png",
-                "repo": "https://github.com/cjcocokrisp/insulate"
+                "repo": "https://github.com/cjcocokriisp/insulate"
             }
         }
     },
@@ -175,7 +175,7 @@ const projectData = {
                     "Created as my submission for the AP Computer Science Principles Create Task."
             ],
                 "img": "reaction-test.png",
-                "repo": "https://github.com/cjcocokrisp/reaction-test"
+                "repo": "https://github.com/cjcocokriisp/reaction-test"
             },
             "1": {
                 "name": "Simple Platformer Project",
@@ -184,7 +184,7 @@ const projectData = {
                     "This was my first bigger project that I worked on."
                 ],
                 "img": "platformer.png",
-                "repo": "https://github.com/cjcocokrisp/simple-platformer-project"
+                "repo": "https://github.com/cjcocokriisp/simple-platformer-project"
             }
         }
     }
